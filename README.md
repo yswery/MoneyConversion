@@ -1,6 +1,6 @@
 # $$$ Money Conversion $$$
 
-### To run example file
+### To run the example example file
 
 ```$bash
 git clone https://github.com/yswery/MoneyConversion.git
@@ -9,7 +9,7 @@ composer install
 php example.php
 ```
 
-Would return something like:
+The above would return something like:
 
 ```$bash
 $982.25 = nine hundred and eighty two dollars and twenty five cents
